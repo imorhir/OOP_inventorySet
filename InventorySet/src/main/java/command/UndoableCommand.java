@@ -1,4 +1,4 @@
-package shop.command;
+package command;
 
 /**
  * An UndoableCommand may be run at most once.

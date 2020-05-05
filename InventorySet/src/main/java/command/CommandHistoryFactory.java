@@ -1,4 +1,4 @@
-package shop.command;
+package command;
 
 public class CommandHistoryFactory {
   private CommandHistoryFactory() {}

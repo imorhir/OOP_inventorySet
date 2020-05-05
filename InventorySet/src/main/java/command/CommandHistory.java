@@ -1,4 +1,4 @@
-package shop.command;
+package command;
 
 /**
  * An unbounded list of commands with undo/redo capability.

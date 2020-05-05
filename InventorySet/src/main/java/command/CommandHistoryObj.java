@@ -1,4 +1,4 @@
-package shop.command;
+package command;
 import java.util.Stack;
 
 final class CommandHistoryObj implements CommandHistory {

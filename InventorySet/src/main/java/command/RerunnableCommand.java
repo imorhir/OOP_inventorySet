@@ -1,4 +1,4 @@
-package shop.command;
+package command;
 
 /**
  *  A <code>Command</code> that may be run more than once.

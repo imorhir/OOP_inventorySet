@@ -1,4 +1,4 @@
-package shop.command;
+package command;
 
 /**
  * A simple command interface.
